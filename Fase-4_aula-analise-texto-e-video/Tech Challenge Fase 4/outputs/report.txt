@@ -1,0 +1,14 @@
+Frames analisados: 3326
+Anomalias detectadas: 0
+Emocoes detectadas:
+  sad: 68
+  fear: 21
+  angry: 9
+  neutral: 56
+  happy: 63
+  surprise: 9
+Atividades detectadas:
+  Deitado: 62
+  Sentado: 109
+  Em pé: 4
+  Movimento ativo: 4
